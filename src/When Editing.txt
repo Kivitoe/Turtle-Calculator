@@ -1,0 +1,13 @@
+When editing the source code, please follow these tips/rules.
+
+1. It's a good idea to edit with an IDE such as Eclipse so that no errors are in the published source code.
+
+2. Make sure you have Java 8 or up. This program uses features that are introduced in Java 8.
+
+3. If making a massive change is what you think would be good, please discuss it with the community by opening a pull request.
+
+4. Do NOT add malicious code the program NOR bad words OR other bad content.
+
+5. Please add a summary of what you edited.
+
+Those are some things to keep in mind when editing. Thanks for considering to contribute to Turtle Calculator!
